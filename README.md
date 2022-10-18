@@ -13,7 +13,7 @@ Inside of this software you may find a multitude of "backdoors". These are not m
 # Notes
 
 - This bot is **NOT** for resale, this is a public bot, reselling it is breaking the GNU License.
-- If using code, or snippets, **YOU MUST CREDIT** `Hyperz#0001` in your bot / project.
+- If using code, or snippets, **YOU MUST CREDIT** `Ojiel.exe#6560` in your bot / project.
 
 ---
 
@@ -203,4 +203,4 @@ Debug mode is STRICTLY designed to show the errors the bot has. Most errors will
 
 # Credits
 
-- [@Hyperz](https://hyperz.net/discord) - *Programming*
+- [@Ojiel.exe](https://ojiel.net/discord) - *Programming*
